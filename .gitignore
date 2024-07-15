@@ -5,3 +5,9 @@ __pycache__/
 result/
 *.db
 venv/
+*.csv
+*.parquet
+translator.py
+*.bak
+*.dat
+*.dir
